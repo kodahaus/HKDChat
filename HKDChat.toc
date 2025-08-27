@@ -1,0 +1,19 @@
+## Interface: 110200
+## Title: HKDChat
+## Notes: Fade-in chat panel (Enter to open)
+## Author: Hakoda
+## Version: 0.1
+## SavedVariables: HKDChatDB
+
+
+10_core.lua
+15_misc.lua
+20_panel.lua
+30_tabs.lua
+40_layout.lua
+50_anchors.lua
+55_ui.lua
+60_fader.lua
+70_adopt.lua
+80_hooks.lua
+90_events.lua
